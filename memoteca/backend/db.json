@@ -12,7 +12,7 @@
       "conteudo": "Na minha máquina funciona!",
       "autoria": "Dev da madrugada",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "conteudo": "Testando função de editar",
       "autoria": "Angular ",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 4
     },
     {
